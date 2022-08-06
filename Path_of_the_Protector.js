@@ -1,6 +1,6 @@
 var iFileName = "Path_of_the_Protector.js";
 RequiredSheetVersion("13.1.0");
-// This file adds the backgrounds and beasts from Xanathar's Guide to Everything to MPMB's Character Record Sheet
+// This file adds the homebrew subclass Path of the Protector to MPMB's Character Record Sheet. This subclass was developed for a specific campaign and is not endorsed for play without scrutiny.
 
 // Define the source
 SourceList.H={
